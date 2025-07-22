@@ -33,4 +33,4 @@ This is a foundational project intended to help new developers understand how to
 **Junaet Islam**  
 📧 junaetpro@gmail.com  
 📱 +8801736224711  
-🔗 [LinkedIn](https://linkedin.com/in/junaetpro) | [GitHub](https://github.com/junaetpro)
+🔗 [LinkedIn](https://www.linkedin.com/in/junaetislam/) | [GitHub](https://github.com/junaetpro)
