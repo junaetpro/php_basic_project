@@ -2,8 +2,6 @@
 
 🔗 **Live Demo:** _Coming Soon..._
 
-![PHP Project Diagram](https://media.licdn.com/dms/image/v2/D4E22AQFvd2WnP04Z6w/feedshare-shrink_1280/B4EZgy09yfGUAk-/0/1753199403105?e=1756339200&v=beta&t=KhSu4Q-vxI3YwvJHohndGxpzZzT9dnaxzJjosZT5Ds4)
-
 ---
 
 ## 📌 Project Overview
